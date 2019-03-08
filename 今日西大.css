@@ -42,7 +42,7 @@ position: relative;
   width: 160px; 
   position: relative;
   top: -970px;
-  left:700px;
+  left:740px;
 
 }
 .ph-5 ul li a
@@ -50,8 +50,8 @@ position: relative;
   border-style: solid;   
   text-decoration: none;                 
   border-color: red;                
-  font-size: 3.0em;/*此元素显示为块级元素,此元素前后会带有换行符*/
-   display:block;  
+  font-size: 1.5em;/*此元素显示为块级元素,此元素前后会带有换行符*/
+   
     float: left;
     color: red;
 
@@ -66,24 +66,26 @@ position: relative;
 {
    position: relative;
    top: -1050px;
-   left: 550px;
+   left: 410px;
 }
-.ph-6 p
+
+
+.ph-6 pre
 {
-    font-size: 0.8em;/*css设定字体大小的属性*/
+    font-size:1.0em;/*css设定字体大小的属性*/
   font-family: 仿宋体;/*css设定字体样式的属性*/
   font-weight: 300;/*字体加粗*/
     color:red;
-}
+  }
 .ph-7
 {
    position: relative;
    top: -1050px;
-   left: 440px;
+   left: 395px;
 }
 .ph-7 p
 {
-    font-size: 0.8em;/*css设定字体大小的属性*/
+    font-size: 1.0em;/*css设定字体大小的属性*/
   font-family: 华文楷体;/*css设定字体样式的属性*/
   font-weight: 300;/*字体加粗*/
     color:red;

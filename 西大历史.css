@@ -47,7 +47,7 @@ top: 0px
 	border-style: solid;   
   text-decoration: none;                 
   border-color: red;                
-  font-size: 3.0em;  /*设置字体大小*/
+  font-size: 1.6em;  /*设置字体大小*/
    display:block;  /*此元素显示为块级元素,此元素前后会带有换行符*/
     float: left;
     color: red;
@@ -56,6 +56,6 @@ top: 0px
 .pt-5
 {
    position: relative;
-   top: -1050px;
+   top: -1020px;
    left: 850px;
 }
